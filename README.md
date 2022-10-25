@@ -1,5 +1,6 @@
 ## Operating System Creation
-# Name = Speedy AR OS
+
+### Name = Speedy AR OS
 
 
 ### Personal Operating System Creation
